@@ -1,0 +1,19 @@
+{
+  "name": "phonegap-plugin-dropbox-chooser",
+  "version": "1.0.0",
+  "description": "Dropbox Chooser ===============",
+  "main": "www/DropboxChooser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tajitaji551/phonegap-plugin-dropbox-chooser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tajitaji551/phonegap-plugin-dropbox-chooser/issues"
+  },
+  "homepage": "https://github.com/tajitaji551/phonegap-plugin-dropbox-chooser#readme"
+}
